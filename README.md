@@ -1,4 +1,4 @@
-# Udacity Data Engineer Nanodegree - Data Modeling with Postgres
+# Data Modeling with Postgres
 
 ## Create a Postgres database with tables designed to optimize queries on song play analysis
 
